@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bunz",
+      "email": "tvp141003@gmail.com",
+      "password": "123456",
+      "status": "active"
+      
+    },
+    {
+      "id": 2,
+      "name": "Tran Van Phuong",
+      "email": "lmhthoai1@gmail.com",
+      "password": "123456",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Hehe",
+      "email": "Phuonglp1410@gmail.com",
+      "password": "123456",
+      "status": "unactive"
+    }
+  ]
+}
